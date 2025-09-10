@@ -12,4 +12,4 @@
   <li>NuGet + NAudio library</li>
 </ul>
 
-<h3>You can try it, just open .exe in root directory</h3>
+<h3>Open by .exe in root directory</h3>
